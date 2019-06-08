@@ -18,5 +18,5 @@ app.listen(8080, (err,res)=>
     {
         console.log(err);
     }
-    console.log('server is listening at port 8080')
+    console.log('server started at port 8080')
 })
